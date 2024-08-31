@@ -1,4 +1,4 @@
 # kaushik-demo
 This is my first Git Repositry.
 <br>
-Author - Kaushik Raj1
+Author - Kaushik Raj
